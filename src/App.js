@@ -52,7 +52,7 @@ function App() {
         </div>
       </div>
       <div></div> */}
-      APP
+      <h1>APP</h1>
     </div>
   );
 }

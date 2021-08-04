@@ -29,7 +29,7 @@ function App() {
             className="sidebar-button-2"
             onClick={toggleNav}>
               <AiOutlineLeft />
-          </button> <hr />
+          </button>
           <p className="sidebar-text button-text"> WQI </p>
           <p className="sidebar-text button-text"> ET </p>
           <p className="sidebar-text button-text"> DROUGHT </p>

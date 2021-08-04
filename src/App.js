@@ -1,9 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import * as mdb from 'mdb-ui-kit'; // lib
-import { Input } from 'mdb-ui-kit'; // module
 import React, { useState } from 'react';
-import Sidebar from './components/Sidebar';
 import { AiOutlineLeft, AiOutlineArrowLeft } from "react-icons/ai";
 import { GiHamburgerMenu } from "react-icons/gi";
 function App() {

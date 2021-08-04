@@ -1,15 +1,15 @@
-import './App.css';
-import React, { useState } from 'react';
-import { AiOutlineLeft, AiOutlineArrowLeft } from "react-icons/ai";
-import { GiHamburgerMenu } from "react-icons/gi";
+// import './App.css';
+// import React, { useState } from 'react';
+// import { AiOutlineLeft, AiOutlineArrowLeft } from "react-icons/ai";
+// import { GiHamburgerMenu } from "react-icons/gi";
 function App() {
-  const [shownav, setShownav] = useState(true);
-  function toggleNav() {
-    setShownav(!shownav);
-  }
+  // const [shownav, setShownav] = useState(true);
+  // function toggleNav() {
+  //   setShownav(!shownav);
+  // }
   return (
     <div className="App">
-      <div className="Content">
+      {/* <div className="Content">
         <div
           className="sidebar"
           style={
@@ -29,7 +29,6 @@ function App() {
           <p className="sidebar-text button-text"> WQI </p>
           <p className="sidebar-text button-text"> ET </p>
           <p className="sidebar-text button-text"> DROUGHT </p>
-          {/* <p>ASDF</p> */}
         </div>
         <div id="Header" className="header">
           <div 
@@ -52,7 +51,8 @@ function App() {
           </button>
         </div>
       </div>
-      <div></div>
+      <div></div> */}
+      APP
     </div>
   );
 }
